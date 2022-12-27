@@ -1,0 +1,8 @@
+POST callback-url
+[
+    {
+        "message_id":"0061DF26-B015-D7F6-7B31-C446BA4FDE8B",
+        "status":"Delivered",
+        "recipient":"61NNNNNNNNN"
+    }
+]

@@ -1,0 +1,1 @@
+{"status":200,"msg":"Successfully received","result":{"meta":{"code":200,"status":"SUCCESS"},"msg":"Record found","data":[{"to":"61485872892","body":"Your 2factor login OTP is 911","sent_time":"2022-12-27 18:17:43","message_id":"51947A4B-A6F9-AA7C-764B-2A97BF5DD42A","status":"Delivered","subaccount_id":""}]}}
